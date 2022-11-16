@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CloudClients</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти</string>
+    <string name="id"><Data><![CDATA[<b>ID:</b> %1$d]]></Data></string>
+    <string name="person_name"><Data><![CDATA[<b>ФИО:</b> %1$s]]></Data></string>
+    <string name="person_email"><Data><![CDATA[<b>E-mail:</b> %1$s]]></Data></string>
+    <string name="person_position"><Data><![CDATA[<b>Должность:</b> %1$s]]></Data></string>
+    <string name="person_link"><Data><![CDATA[<u>%1$s</u>]]></Data></string>
+    <string name="loading">Загрузка…</string>
+    <string name="priority"><Data><![CDATA[<b>Приоритет:</b> %1$d]]></Data></string>
+    <string name="status"><Data><![CDATA[<b>Статус:</b> %1$s]]></Data></string>
+    <string name="cr_dt"><Data><![CDATA[<b>Дата создания:</b> %1$s]]></Data></string>
+    <string name="deadline"><Data><![CDATA[<b>Дедлайн:</b> %1$s]]></Data></string>
+    <string name="end_dt"><Data><![CDATA[<b>Дата завершения:</b> %1$s]]></Data></string>
+    <string name="desc"><Data><![CDATA[<b>Описание:</b> %1$s]]></Data></string>
+    <string name="type"><Data><![CDATA[<b>Тип задачи:</b> %1$s]]></Data></string>
+    <string name="contract"><b>Контракт: </b></string>
+    <string name="client"><b>Клиент: </b></string>
+    <string name="executor"><b>Исполнитель: </b></string>
+    <string name="author"><b>Автор: </b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="filters">
+        <item>Доступные</item>
+        <item>Созданные мной</item>
+        <item>Мои задачи</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
